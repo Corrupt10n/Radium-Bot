@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Radium discord bot
 
-You can use the [editor on GitHub](https://github.com/Corrupt10n404/Radium-Bot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Radium is a light-weight, easy to use, moderation bot for discord. However, it has features that most public moderation bots don't have. Have you seen a pubic bot like Dyno or Mee6 that can remove punishments, and view information about a punishment easily? This is why you should choose radium
 
 ```markdown
 Syntax highlighted code block
